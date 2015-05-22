@@ -20,6 +20,7 @@ setup(name='waxe.spellcheck',
       namespace_packages=['waxe'],
       install_requires=[
           # -*- Extra requirements: -*-
+          'pyenchant'
       ],
       entry_points="""
       # -*- Entry points: -*-
